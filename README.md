@@ -1,2 +1,0 @@
-# cryptography-book
-cryptography-book
